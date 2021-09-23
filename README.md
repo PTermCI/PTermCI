@@ -4,6 +4,8 @@
     </a>
 </p>
 
+<p align="center">
 I am the account which is used to commit to your repositories using PTerm-CI!
-
+<br/>
 More here: https://github.com/pterm/cli-template
+</p>
